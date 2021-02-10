@@ -1,0 +1,20 @@
+Agenda do mês todo de PROGRAMAÇÃO WEB
+
+07/11
+Utilização de POST em microserviços
+Como gerar executáveis dos projetos?
+
+14/11
+Exercicio de revisão (One-to-Many)
+Auxilio aos projetos de pesquisa e inovação
+
+21/11
+Avaliação Continuada 3
+
+28/11
+Correção da prova
+Auxilio aos projetos de PI
+
+
+--------------------------------------------------------------------
+
